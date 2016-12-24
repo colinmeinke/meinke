@@ -14,6 +14,13 @@ const {
 export default ({ children }) => (
   <div>
     <Head>
+      <title>
+        Graham Meinke - Service Development & Business Transformation
+      </title>
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+      />
       <style>{`
         html {
           color: ${fontColor};
