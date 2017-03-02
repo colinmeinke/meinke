@@ -2,7 +2,6 @@
   "dependencies": {
     "next": "^1.2.3"
   },
-  "main": "index.js",
   "name": "meinke",
   "scripts": {
     "build": "next build",
